@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
+[![MasterHead]([https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif](https://miro.medium.com/v2/resize:fit:1358/1*dBPwuC3Dh2WWFFYTwogTMA.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Magan Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
